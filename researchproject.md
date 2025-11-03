@@ -26,6 +26,7 @@ Ultimately, in this project it calls attention to the tensions between innovatio
 
 
 Works Cited
+
 Brundage, Miles, et al. “The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation.” Oxford University Press, 2018, pp.1-30. 
 
 Crawford, Kate. Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. Yale University Press, 2021. 
