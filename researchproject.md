@@ -4,6 +4,13 @@ My Voyant:
 
 <img width="489" height="381" alt="Screenshot 2025-11-10 at 12 16 27 PM" src="https://github.com/user-attachments/assets/9e1a94c4-879f-4525-aab6-1f3c00aa72f6" />
 
+<img width="485" height="378" alt="Screenshot 2025-11-10 at 12 31 23 PM" src="https://github.com/user-attachments/assets/44e22f5d-2652-4771-8629-8adccc16bada" />
+
+<img width="485" height="366" alt="Screenshot 2025-11-10 at 12 32 01 PM" src="https://github.com/user-attachments/assets/49bdedc0-b80f-4ae6-b260-c27ffe18d5de" />
+
+<img width="698" height="207" alt="Screenshot 2025-11-10 at 12 32 28 PM" src="https://github.com/user-attachments/assets/b6a4159b-6be5-40a3-8614-c8094bf4f2f6" />
+
+
 
 
 
