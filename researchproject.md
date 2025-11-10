@@ -1,13 +1,12 @@
----
-layout: default
-title: Research Project
----  
-
 My Final Research Project  
 
-This is a big project, and you definitely want a place to show it off! Here's a suggested layout for that (but feel free to display your work however you prefer).
-You can link to your project here, or embed it.
-If it is easier to embed your project in an HTML file, just change the .md on this one to .html, and write in HTML! (Be sure to update the links to this page to reflect the new name though!)
+My Voyant:
+
+<img width="489" height="381" alt="Screenshot 2025-11-10 at 12 16 27 PM" src="https://github.com/user-attachments/assets/9e1a94c4-879f-4525-aab6-1f3c00aa72f6" />
+
+
+
+
 
 # Abstract
 
